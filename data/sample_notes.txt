@@ -1,0 +1,5 @@
+System implementation transforms design into working software.
+Testing identifies defects and checks whether software behaves correctly.
+Versioning with Git records project changes and supports collaboration.
+Deployment prepares the software so another user can install, configure, and run it.
+Data conversion preserves correctness when information moves between formats.

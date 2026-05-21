@@ -1,0 +1,12 @@
+Final Submission Text
+
+I am submitting the GitHub repository link for my practical task: System Implementation, Testing, and Deployment for an AI- and Agent-Based Python System.
+
+Project title: Study Assistant Agent
+
+The project is a Python-based AI/agent-style command-line assistant. It receives a user query, detects the task type, uses one or more tools, and returns a structured answer. The implemented tools include a safe calculator, file reader, keyword search tool, and text summarizer.
+
+The repository includes the full source code, tests, README file, requirements.txt, documentation, journal text, and deployment instructions. The system can be installed in a virtual environment and tested with pytest.
+
+GitHub repository link:
+PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
